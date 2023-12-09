@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **WEATHER PREDICTIONS CHATBOT USING TIMESERIES MODELS PROJECT**
+- 🔭 **Pre-final year Student at Vellore Institute of Technology, Chennai**
 
 - 📫 How to reach me **pulaparthipenchaladeepthisri14@gmail.com**
 
