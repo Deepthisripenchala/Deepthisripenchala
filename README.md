@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 **Pre-final year Student at Vellore Institute of Technology, Chennai**
+- 🎓 **Student at Vellore Institute of Technology, Chennai**
 
 
 <h3 align="left">Let's Connect!🤝 </h3>
