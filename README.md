@@ -148,13 +148,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pulaparthi-penchala-deepthi-sri-078095254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pulaparthi%20Penchala%20Deepthi%20Sri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pulaparthipenchaladeepthisri14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pulaparthipenchaladeepthisri14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </div>
