@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pulaparthi Penchala Deepthi Sri 👋</h1>
+<h1 align="center">Hi, I'm Pulaparthi Penchala Deepthi Sri </h1>
 
 <p align="center">
   <b>GenAI Engineer • Building Intelligent Systems</b>
@@ -12,15 +12,15 @@
 
 <div align="center">
 
-### ⚡ About Me
+###  About Me
 
-🧠 Building AI applications that solve real-world problems
+ Building AI applications that solve real-world problems
 
-🤖 Exploring Multi-Agent Systems & AI Infrastructure
+ Exploring Multi-Agent Systems & AI Infrastructure
 
-🚀 Passionate about LLMs, Computer Vision & Intelligent Automation
+ Passionate about LLMs, Computer Vision & Intelligent Automation
 
-☁️ Creating scalable AI solutions with Cloud technologies
+ Creating scalable AI solutions with Cloud technologies
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-🧩 Multi-Agent AI
+ Multi-Agent AI
 
 •
 RAG Systems
