@@ -1,19 +1,117 @@
-<h1 align="center">Hi 👋, I'm Pulaparthi Penchala Deepthi Sri</h1>
-<h3 align="center">An Enthusiastic Learner!</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<h1 align="center">Hi, I'm Pulaparthi Penchala Deepthi Sri 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthisripenchala&label=Profile%20views&color=0e75b6&style=flat" alt="deepthisripenchala" /> </p>
+<p align="center">
+  <b>GenAI Engineer • Building Intelligent Systems</b>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Enterprise+GenAI+Applications;Multi-Agent+AI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Turning+Ideas+into+Intelligent+Software" />
+</p>
 
-- 🎓 **Student at Vellore Institute of Technology, Chennai**
+---
 
+<div align="center">
 
-<h3 align="left">Let's Connect!🤝 </h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pulaparthi-penchala-deepthi-sri-078095254/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+### ⚡ About Me
+
+🧠 Building AI applications that solve real-world problems
+
+🤖 Exploring Multi-Agent Systems & AI Infrastructure
+
+🚀 Passionate about LLMs, Computer Vision & Intelligent Automation
+
+☁️ Creating scalable AI solutions with Cloud technologies
+
+</div>
+
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,flask,fastapi,docker,aws,azure,git,github,vscode,linux&perline=6"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,pandas,numpy"/>
+
+</p>
+
+---
+
+<h3 align="center">Currently Exploring</h3>
+
+<p align="center">
+
+🧩 Multi-Agent AI
+
+•
+RAG Systems
+
+•
+AI Infrastructure
+
+•
+Agentic Workflows
+
+•
+Enterprise AI
+
+</p>
+
+---
+
+<h3 align="center">GitHub Analytics</h3>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepthisripenchala&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthisripenchala&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepthisripenchala&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepthisripenchala&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+<h3 align="center">Let's Connect</h3>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pulaparthipenchaladeepthisri14@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>
+Building intelligent software that bridges AI research with real-world applications.
+</i>
+
+</p>
