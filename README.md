@@ -1,117 +1,65 @@
-<h1 align="center">Hi, I'm Pulaparthi Penchala Deepthi Sri </h1>
+<h1 align="center">Hi , I'm Deepthi Sri</h1>
+<h3 align="center">AI Engineer building Multi-Agent GenAI Systems @ Ascendion</h3>
 
 <p align="center">
-  <b>GenAI Engineer • Building Intelligent Systems</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Multi-Agent+GenAI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Published+ML+Researcher+(Springer%2C+IEEE);AWS+%2B+Azure+Certified" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Enterprise+GenAI+Applications;Multi-Agent+AI+Systems;LLMs+%7C+RAG+%7C+Computer+Vision;Turning+Ideas+into+Intelligent+Software" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pulaparthipenchaladeepthisri14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/deepthisripenchala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<div align="center">
+###  What I'm working on
 
-###  About Me
+-  **Multi-Agent GenAI Image Platform** — full-stack image processing platform on AWS using Gemini, Imagen, and SAM, with vector-based semantic search. Cut manual workflow effort by **60%**.
+-  **Leadership Mobility Command Center** — built the GPS-based ground mobility tracking module (Node.js, Firebase, Google Maps) as part of a unified Flask dashboard monitoring 100+ executive travel events. Reduced manual coordination by **70%**.
+-  **GeoShield AI** — enterprise geo-risk intelligence platform (Node.js, Express, LLM + weather/news APIs) automating risk monitoring across 41 global offices. Cut manual risk assessment effort by **75%**.
 
- Building AI applications that solve real-world problems
+### 🔬 Research
 
- Exploring Multi-Agent Systems & AI Infrastructure
+-  **Springer Nature — EPJ Special Topics**: dual-track deep learning + transformers for mammogram classification (CBIS-DDSM)
+-  **IEEE (ICIIET'2025)**: hybrid deep learning model for Alzheimer's staging on 9,488 MRI scans — **98.03% accuracy**
+-  **NCACSI'24**: Attention U-Net + CNN for breast ultrasound segmentation & classification — **93.3% accuracy**
 
- Passionate about LLMs, Computer Vision & Intelligent Automation
+###  Achievements
 
- Creating scalable AI solutions with Cloud technologies
-
-</div>
+-  2nd Runner-up — Bank of New York Code Divas Challenge (BNY)
+-  AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Microsoft Certified: Azure Administrator Associate
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+###  Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,flask,fastapi,docker,aws,azure,git,github,vscode,linux&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,flask,fastapi,docker,aws,azure,git,github,vscode,linux,kubernetes&perline=7"/>
 </p>
-
 <p align="center">
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,pandas,numpy"/>
+</p>
 
+**AI/ML:** LLMs · LangChain · RAG · Multi-Agent Systems · Vector Databases · Computer Vision · NLP · MLOps
+
+---
+
+###  GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepthisripenchala&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthisripenchala&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=deepthisripenchala&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepthisripenchala&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">Currently Exploring</h3>
-
-<p align="center">
-
- Multi-Agent AI
-
-•
-RAG Systems
-
-•
-AI Infrastructure
-
-•
-Agentic Workflows
-
-•
-Enterprise AI
-
-</p>
-
----
-
-<h3 align="center">GitHub Analytics</h3>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepthisripenchala&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthisripenchala&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=deepthisripenchala&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepthisripenchala&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-<h3 align="center">Let's Connect</h3>
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>
-Building intelligent software that bridges AI research with real-world applications.
-</i>
-
-</p>
+<p align="center"><i>Building intelligent software that bridges AI research with real-world enterprise applications.</i></p>
