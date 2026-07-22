@@ -42,28 +42,6 @@
 
 ---
 
-<h3 align="center">Currently Exploring</h3>
-
-<p align="center">
-
-Multi-Agent AI
-
-•
-RAG Systems
-
-•
-AI Infrastructure
-
-•
-Agentic Workflows
-
-•
-Enterprise AI
-
-</p>
-
----
-
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
