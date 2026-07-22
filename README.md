@@ -145,18 +145,14 @@
 
 # Let's Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pulaparthi-penchala-deepthi-sri-078095254/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:pulaparthipenchaladeepthisri14@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pulaparthi-penchala-deepthi-sri-078095254/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pulaparthipenchaladeepthisri14@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" />
+  </a>
+</p>
 
 ---
