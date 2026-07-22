@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Pulaparthi Penchala Deepthi Sri
+# Hi , I'm Pulaparthi Penchala Deepthi Sri
 
-### GenAI Engineer • Building Intelligent Systems
+### AI Engineer • Building Intelligent Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Building+Enterprise+GenAI+Applications;Designing+Multi-Agent+AI+Systems;Developing+LLMs+%7C+RAG+%7C+Computer+Vision+Solutions;Creating+AI+that+Solves+Real-World+Problems" alt="Typing SVG" />
 
@@ -16,24 +16,24 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+##  About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-- 🤖 GenAI Engineer passionate about building **production-ready AI systems**
-- 🧠 Working across **LLMs, Multi-Agent Systems, RAG, Computer Vision & AI Automation**
-- 🚀 Experienced in developing **enterprise AI applications** from concept to deployment
-- ☁️ Building scalable AI solutions using **AWS, Azure & modern cloud technologies**
-- 🔬 Research enthusiast with publications in **AI & Deep Learning**
-- 🌱 Continuously exploring emerging technologies shaping the future of Artificial Intelligence
+-  GenAI Engineer passionate about building **production-ready AI systems**
+-  Working across **LLMs, Multi-Agent Systems, RAG, Computer Vision & AI Automation**
+-  Experienced in developing **enterprise AI applications** from concept to deployment
+-  Building scalable AI solutions using **AWS, Azure & modern cloud technologies**
+-  Research enthusiast with publications in **AI & Deep Learning**
+-  Continuously exploring emerging technologies shaping the future of Artificial Intelligence
 
 <br clear="right"/>
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 <p align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+##  Artificial Intelligence & Machine Learning
 
 <p align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🌐 Backend & Databases
+##  Backend & Databases
 
 <p align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## ☁️ Cloud • DevOps • Tools
+##  Cloud • DevOps • Tools
 
 <p align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 Data & Analytics
+##  Data & Analytics
 
 <p align="center">
 
@@ -115,23 +115,7 @@
 
 ---
 
-## 💡 Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Intelligent Systems |
-|-------------------------|--------------------|
-| Large Language Models | Multi-Agent Systems |
-| Retrieval-Augmented Generation | AI Infrastructure |
-| Computer Vision | Intelligent Automation |
-| Enterprise AI | Cloud AI |
-| Deep Learning | Applied Machine Learning |
-
-</div>
-
----
-
-# 📊 GitHub Dashboard
+#  GitHub Dashboard
 
 <div align="center">
 
@@ -154,16 +138,6 @@
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepthisripenchala&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepthisripenchala&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
