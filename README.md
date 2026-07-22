@@ -20,7 +20,7 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
--  GenAI Engineer passionate about building **production-ready AI systems**
+-  AI Engineer passionate about building **production-ready AI systems**
 -  Working across **LLMs, Multi-Agent Systems, RAG, Computer Vision & AI Automation**
 -  Experienced in developing **enterprise AI applications** from concept to deployment
 -  Building scalable AI solutions using **AWS, Azure & modern cloud technologies**
